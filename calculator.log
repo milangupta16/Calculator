@@ -68,3 +68,27 @@
 13/Mar/2021:14:19:06 740 [Calculator.java] [INFO] Calculator Square Root of : 16.0is : 4.0
 13/Mar/2021:14:19:06 752 [Calculator.java] [INFO] Calculator Square Root of : 9.0is : 3.0
 13/Mar/2021:14:19:06 753 [Calculator.java] [INFO] Calculator Square Root of : 1.0is : 1.0
+17/Mar/2021:16:40:10 403 [Calculator.java] [INFO] Calculator Factorial of : 5.0is : 120.0
+17/Mar/2021:16:40:10 417 [Calculator.java] [INFO] Calculator Factorial of : 10.0is : 3628800.0
+17/Mar/2021:16:40:10 418 [Calculator.java] [INFO] Calculator Factorial of : 0.0is : 1.0
+17/Mar/2021:16:40:10 422 [Calculator.java] [INFO] Calculator Square Root of : 16.0is : 4.0
+17/Mar/2021:16:40:10 424 [Calculator.java] [INFO] Calculator Square Root of : 9.0is : 3.0
+17/Mar/2021:16:40:10 426 [Calculator.java] [INFO] Calculator Square Root of : 1.0is : 1.0
+17/Mar/2021:16:40:10 429 [Calculator.java] [INFO] Calculator Natural Log of : 10.0is : 2.302585092994046
+17/Mar/2021:16:40:10 430 [Calculator.java] [INFO] Calculator Natural Log of : 1.0is : 0.0
+17/Mar/2021:16:40:10 432 [Calculator.java] [INFO] Calculator Natural Log of : 20.0is : 2.995732273553991
+17/Mar/2021:16:40:10 434 [Calculator.java] [INFO] Calculator Factorial of : 5.0is : 120.0
+17/Mar/2021:16:40:10 436 [Calculator.java] [INFO] Calculator Factorial of : 10.0is : 3628800.0
+17/Mar/2021:16:40:10 437 [Calculator.java] [INFO] Calculator Factorial of : 0.0is : 1.0
+17/Mar/2021:16:40:10 440 [Calculator.java] [INFO] Calculator Power of : 5.0and2.0is : 25.0
+17/Mar/2021:16:40:10 441 [Calculator.java] [INFO] Calculator Power of : 2.0and9.0is : 512.0
+17/Mar/2021:16:40:10 443 [Calculator.java] [INFO] Calculator Power of : 3.0and0.0is : 1.0
+17/Mar/2021:16:40:10 446 [Calculator.java] [INFO] Calculator Power of : 5.0and2.0is : 25.0
+17/Mar/2021:16:40:10 447 [Calculator.java] [INFO] Calculator Power of : 2.0and9.0is : 512.0
+17/Mar/2021:16:40:10 449 [Calculator.java] [INFO] Calculator Power of : 3.0and0.0is : 1.0
+17/Mar/2021:16:40:10 452 [Calculator.java] [INFO] Calculator Natural Log of : 10.0is : 2.302585092994046
+17/Mar/2021:16:40:10 454 [Calculator.java] [INFO] Calculator Natural Log of : 1.0is : 0.0
+17/Mar/2021:16:40:10 456 [Calculator.java] [INFO] Calculator Natural Log of : 20.0is : 2.995732273553991
+17/Mar/2021:16:40:10 458 [Calculator.java] [INFO] Calculator Square Root of : 16.0is : 4.0
+17/Mar/2021:16:40:10 481 [Calculator.java] [INFO] Calculator Square Root of : 9.0is : 3.0
+17/Mar/2021:16:40:10 483 [Calculator.java] [INFO] Calculator Square Root of : 1.0is : 1.0

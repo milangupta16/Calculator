@@ -1,2 +1,2 @@
 [remoteserver]
-127.0.1.1 ansible_user=milan
+127.0.1.1 ansible_user=mars
